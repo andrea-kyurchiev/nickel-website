@@ -2,6 +2,7 @@
 draft = false
 title = "Conor O'Neill"
 role = "speaker"
+position = "VP of Product and Engineering"
 image = "/img/speakers/conor-oneill.jpg"
 +++
 
