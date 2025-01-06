@@ -1,8 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  {{ partial "header.html" . }}
-</head>
+{{ partial "header.html" . }}
+
 <body>
   <a id="top"></a>
   <div class="nav-container">
@@ -33,9 +30,8 @@
     {{ partial "supporting-partners.html" . }}
     <section class="row text-center">
       <h1 class="text-green">Key Themes and Dedicated Tracks</h1>
-  {{ partial "footer.html" . }}
-</body>
-</html>
+      {{ partial "key-themes.html" . }}
+    </section>
   </div>
   {{ partial "footer.html" . }}
 </body>
