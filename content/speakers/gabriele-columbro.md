@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "MGabriele Columbro"
+title = "Gabriele Columbro"
 role = "speaker"
 Position = "Executive Director / General Manager FINOS / Linux Foundation Europe"
 image = "/img/speakers/gabriele-columbro.jpg"
