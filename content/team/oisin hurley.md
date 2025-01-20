@@ -1,6 +1,7 @@
 +++
 draft = false
 title = "Oisín Hurley"
+position = "Moderator"
 role = "committee"
 image = "/img/team/oisin-hurley.jpg"
 +++

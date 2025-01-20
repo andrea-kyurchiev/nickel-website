@@ -1,6 +1,7 @@
 +++
 draft = false
 title = "Síofra Flood"
+position = "Moderator"
 role = "committee"
 image = "/img/team/siofra-flood.jpg"
 +++
