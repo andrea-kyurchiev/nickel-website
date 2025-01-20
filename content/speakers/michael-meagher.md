@@ -1,9 +1,9 @@
 +++
 draft = false
 title = "Michael Meagher"
-role = "comspeaker"
+role = "speaker"
 position = "Director & Organiser"
-image = "/img/team/michael-meagher.jpg"
+image = "/img/speaker/michael-meagher.jpg"
 bluesky = "https://bsky.app/profile/mmeagher11.bsky.social"
 linkedin = "https://www.linkedin.com/in/michaelmeagher/"
 github = "https://github.com/mmeagher11"
