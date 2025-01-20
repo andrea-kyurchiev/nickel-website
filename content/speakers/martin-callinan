@@ -1,4 +1,3 @@
-
 +++
 draft = false
 title = "Martin Callinan"
