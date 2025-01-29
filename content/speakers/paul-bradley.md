@@ -3,7 +3,7 @@ draft = false
 title = "Paul Bradley"
 role = "speaker"
 Position = "Transformation Lead at AIB"
-image = "/img/speakers/paul-bradley.jpg"
+image = "/img/speakers/paul-bradley.jpeg"
 +++
 
 Paul Bradley, is a Transformation Lead at AIB with extensive expertise in leveraging artificial intelligence (AI) and open-source technologies to drive innovation and transformation in the financial services sector. With a deep understanding of AI-driven solutions, process optimisation, and digital transformation, Paul is skilled at implementing scalable technologies that enhance operational efficiency and customer experience.
