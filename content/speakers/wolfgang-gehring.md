@@ -2,7 +2,7 @@
 draft = false
 title = "Dr Wolfgang Gehring"
 role = "speaker"
-position = "Mercedes-Benz OSPO"
+position = "Mercedes-Benz Tech Innovation OSPO"
 image = "/img/speakers/wolfgang-gehring.jpg"
 +++
 
