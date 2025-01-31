@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Bill Higgins
+title = "Bill Higgins"
 role = "speaker"
 position = "IBM Vice President and Distinguished Engineer"
 image = "/img/speakers/bill-higgins.jpg"
